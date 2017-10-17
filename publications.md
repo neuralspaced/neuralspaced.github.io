@@ -1,6 +1,6 @@
 ---
 layout: papers
-title: Publications
+title: Research
 menu: true
 order: 2
 color: "#22262e"
