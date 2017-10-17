@@ -1,85 +1,120 @@
 ---
-layout: about
-title: About
+layout: page
+title: About us
 menu: true
 order: 3
+color: black
+tags: [about]
+author: neuralspace
+color: "#22262e"
 ---
 
-## Hydejack
-Hydejack is a cutting-edge Jekyll theme that combines the best of static sites and modern web apps. It features a suite of JavaScript that makes the page feel like an app, without sacrificing backwards-compatibility, page-load speed or SEO.
+# NeuralSpace
 
-> Your presence on the web --- A [blog], a [portfolio] and a [resume].
-{:.lead}
+We are a group of **Artificial Intelligence (AI)** enthusuasts who want to bridge the gap between cutting edge AI research and real world business use-cases. Our goal is to help businesses make intelligent software without being overwhelmed by **Machine Learning** or **Deep Learning**. We enable businesses with an AI ecosystem that not only powers their applications/software but also helps them them in understand Machine Learning and Deep Learning better. If you are developing a cool application or an enterprise level software that needs Machine Intelligence, then you are the right place.
 
-It aims to be the complete package for professionals on the web. It features a blog suitable for both prose and technical documentation, a showcase for projects and a resume that fits with the rest of the design.
 
-Open `about.md` to edit this text.
+<style>
+        table, caption, tbody, tfoot, thead, tr, th, td {
+          margin: 0;
+          padding: 0;
+          border: 0;
+          outline: 0;
+          font-size: 100%;
+          vertical-align: baseline;
+          background: transparent;
+        }
+     </style>
 
-### Features
-Both the PRO *and* free version includes all of the features listed below:
 
-* Full in-app page loading --- no Flash of White, no Flash of Unstyled Content[^1]
-* Advanced animations, inspired by Material Design
-* A customizable sidebar that turns into a touch-enabled app drawer on mobile
-* Near-perfect [Google PageSpeed Score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fqwtel.com%2Fhydejack%2F)[^2]
-* Even higher *perceived speed* thanks to pre-fetching and latency-hiding
-* Support for categories and tags --- even when hosting on GitHub Pages
-* Built-in collection of social media icons
-* Author section below each article and multiple authors
-* Simple and semantic HTML --- can be viewed even with text-based browsers
-* Progressive enhancement --- sacrifice features, not content
-* Google Analytics and Google Fonts support
-* Blog layout with pagination
-* Syntax highlighting
-* Math formulas via LaTeX
-* Disqus comments
-* RSS feed
-* Print layout
+# Team
 
-Open `about.md` to edit this text.
+<table>
+<tr>
+    <th style="background-color: transparent;"><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/20d694dd8e4a0283fb087e3361077115/marcus.jpg" alt="Marcus Liwicki" style="width: 90%;margin-left:6px;">
+    </th>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/97cd3ae286e5a2064c7f876cfabce461/john_new.jpeg" alt="John Gamboa" style="width: 90%;margin-left:6px;"></th>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/56882ca535691b153f8a94fc934e1711/ayush.jpg" alt="Ayushman Dash" style="width: 90%;margin-left:6px;"></th>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/b448fc1dcd74879b5aab3bf23ae9d488/shan_team.jpg" alt="Afzal" style="width: 90%;margin-left:6px;"></th>
+</tr>
+<tr>
+    <th style="text-align: center;width: 25%;background-color: !transparent;">
+            <span style="font-size: 120%;"><a href="http://blog.mindgarage.de/liwicki/" target="_blank">Marcus Liwicki</a></span>
+            <br> <span style="font-size: 110%;">General Chair</span> 
+            <br> <span style="font-size: 100%;"><a href="http://mindgarage.ai/" target="_blank">MindGarage</a></span>
+            <br><span style="font-size: 100%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies</a></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;"><a href="https://vaulttech.github.io/" target="_blank">John Gamboa</a></span>
+            <br> <span style="font-size: 110%;">Co-Chair</span> 
+            <br> <span style="font-size: 100%;"><a href="http://mindgarage.ai/" target="_blank">MindGarage</a></span>
+            <br><span style="font-size: 100%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies</a></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;"><a href="https://dashayushman.github.io/" target="_blank">Ayushman Dash</a></span>
+            <br> <span style="font-size: 110%;">Co-Chair</span> 
+            <br> <span style="font-size: 100%;"><a href="http://mindgarage.ai/" target="_blank">MindGarage</a></span>
+            <br><span style="font-size: 100%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies</a></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;">Muhammad Zeshan Afzal</span>
+            <br> <span style="font-size: 110%;">Scientific Co-Chair</span> 
+            <br> <span style="font-size: 100%;"><a href="http://mindgarage.ai/" target="_blank">MindGarage</a></span>
+            <br><span style="font-size: 100%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies</a></span>
+    </th>
+</tr>
+<tr>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/7cf3ffac2095fa55e77b2d44c79316e6/fotini_team.jpg" alt="Fotini Simistira" style="width: 90%;margin-left:6px;">
+    </th>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/30e63162eeab2b241635c3942cdc90d6/dominik.jpg" alt="Dominik Bermühler" style="width: 90%;margin-left:6px;"></th>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/699e5323a123806227532826bc21b7a7/andreas_team.jpg" alt="Andreas Kölsch" style="width: 90%;margin-left:6px;"></th>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/f7cd47621e5b05b248ba4f691d3f9e63/ebbecke_team.jpg" alt="Afzal" style="width: 90%;margin-left:6px;"></th>
+</tr>
+<tr>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;">Fotini Simistira</span>
+            <br> <span style="font-size: 110%;">Organization Chair</span> 
+            <br> <span style="font-size: 100%;"><a href="http://mindgarage.ai/" target="_blank">MindGarage</a></span></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;">Dominik Bermühler</span>
+            <br> <span style="font-size: 110%;">Organization Chair</span> 
+            <br> <span style="font-size: 100%;"><a href="http://mindgarage.ai/" target="_blank">MindGarage</a></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;">Andreas Kölsch</span>
+            <br> <span style="font-size: 110%;">Organization Chair</span> 
+            <br> <span style="font-size: 100%;"><a href="http://mindgarage.ai/" target="_blank">MindGarage</a></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;">Markus Ebbecke</span>
+            <br> <span style="font-size: 110%;">Industrial Organization Chair</span>
+            <br><span style="font-size: 100%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies</a></span>
+    </th>
+</tr>
+<tr>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/bdce14870967986663b6fc2a7c9578ce/armin.jpg" alt="Armin Stahl" style="width: 90%;margin-left:6px;"></th>
+    <th><img src="https://mg-git.cs.uni-kl.de/mg-admin/OSA-alpha/uploads/2e5db0d17c83437dce73df33972f824a/weiss_team.jpg" alt="Werner Weiss" style="width: 90%;margin-left:6px;"></th>
+    <th><img src="http://www.insiders-technologies.de/fileadmin/images/Presse/Presse_Bildmaterial/technologies_logo/rgb/insiders_technologies_rgb.png" alt="Insiders Technologies" style="width: 90%;margin-left:6px;">
+    </th>
+    <th></th>
+    
+</tr>
+<tr>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;">Armin Stahl</span>
+            <br> <span style="font-size: 110%;">Industrial Organization Chair</span> 
+            <br><span style="font-size: 100%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies</a></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;">Werner Weiss</span>
+            <br> <span style="font-size: 110%;">CEO</span> 
+            <br><span style="font-size: 100%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies</a></span>
+    </th>
+    <th style="text-align: center;width: 25%;">
+            <span style="font-size: 120%;"><a href="http://www.insiders-technologies.de/" target="_blank">Insiders Technologies GmbH</a></span>
+            <br> <span style="font-size: 110%;">Sponsor</span>
+    </th>
 
-### [Documentation][docs]{:data-flip="title"}
-Hydejack is documented extensively.
-You can read it [on this site][docs], in the [repository's wiki][wiki], or [download the PDF][download].
-
-Open `about.md` to edit this text.
-
-### Download
-There are two versions of Hydejack: The Free Version includes basic blogging functionality,
-as did previous versions of the theme.
-The new PRO Version includes additional features for professionals:
-A [portfolio], a [resume] layout and a [welcome] page to feature your favorite projects and posts.
-
-This table details what is and isn't included in each respective version.
-
-|                                  | Free               | PRO                |
-|:---------------------------------|:------------------:|:------------------:|
-| Blog                             | &#x2714;           | &#x2714;           |
-| Features (see below)             | &#x2714;           | &#x2714;           |
-| [Portfolio] Layout               |                    | &#x2714;           |
-| [Resume] Layout                  |                    | &#x2714;           |
-| [Welcome] Layout                 |                    | &#x2714;           |
-| License                          | [MIT][license]     | [PRO]              |
-| Price                            | Free               | $34                |
-| | [**Download on GitHub**][download]<br/> -- or -- <br/>[**Use the RubyGem**][gem] | [**Buy Now – $34**][buy][^3] |
-
-Open `about.md` to edit this text.
-
-[^1]: Applies after the initial page load.  
-[^2]: Actual page load speed depends on your hosting provider as well as discipline regarding resolution of images and usage of 3rd party plugins.
-[^3]: Transactions secured by [Stripe](https://stripe.com). Downloads handled by [Simple Goods](https://simplegoods.co/).
-
-[blog]: https://qwtel.com/hydejack/blog/
-[portfolio]: https://qwtel.com/hydejack/projects/
-[resume]: https://qwtel.com/hydejack/resume/
-[welcome]: https://qwtel.com/hydejack/
-
-[docs]: docs/6.6.0/index.md
-[license]: LICENSE.md
-[pro]: licenses/PRO-license.md
-
-[download]: https://github.com/qwtel/hydejack/releases
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://app.simplegoods.co/i/AQTTVBOE
-
-[wiki]: https://github.com/qwtel/hydejack/wiki
+</tr>
+</table>

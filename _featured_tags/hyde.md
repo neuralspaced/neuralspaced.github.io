@@ -1,15 +1,9 @@
 ---
-layout: list
-title: Hyde
-slug: hyde
-menu: true
-order: 1
-description: >
-  Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-  It’s based on Poole, the Jekyll butler.
-  Open `_featured_tags/hyde.md` to edit this text.
-
-# http://jsfiddle.net/LPxrT/
-image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
-color: '#268bd2'
+layout: base
 ---
+
+{% for post in paginator.posts %}
+  {% include post.html post=post link_title=true excerpt=true %}
+{% endfor %}
+
+{% include pagination.html %}
