@@ -64,7 +64,7 @@ We are a group of **Artificial Intelligence (AI)** enthusuasts who want to bridg
             <br><span style="font-size: 80%;"><a href="http://reverieinc.com/" target="_blank">Reverie Language Technologies</a></span>
     </th>
     <th style="text-align: center;width: 25%;">
-            <span style="font-size: 130%;"><a href="https://www.linkedin.com/in/sidharth-sahu-038972b9/" target="_blank">Sidharh Sahu</a></span>
+            <span style="font-size: 130%;"><a href="https://www.linkedin.com/in/sidharth-sahu-038972b9/" target="_blank">Sidharth Sahu</a></span>
             <br> <span style="font-size: 80%;">Tech Lead</span>
             <br><span style="font-size: 80%;"><a href="http://reverieinc.com/" target="_blank">Reverie Language Technologies</a></span>
     </th>
@@ -81,7 +81,7 @@ We are a group of **Artificial Intelligence (AI)** enthusuasts who want to bridg
             <br> <span style="font-size: 80%;">NeuralSpace (advisor)</span>
     </th>
     <th style="text-align: center;width: 25%;">
-            <span style="font-size: 130%;"><a href="https://www.linkedin.com/in/sovan-nayak-1312a329/" target="_blank">Sidharh Sahu</a></span>
+            <span style="font-size: 130%;"><a href="https://www.linkedin.com/in/sovan-nayak-1312a329/" target="_blank">Sovan Nayak</a></span>
             <br> <span style="font-size: 80%;">NeuralSpace (advisor)</span>
     </th>
 </tr>
