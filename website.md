@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About us
+title: Website
 menu: true
 redirect: true
-link: http://neuralspace.ai/team.html
-order: 4
+link: http://neuralspace.ai/
+order: 2
 color: black
 tags: [about]
 author: neuralspace
